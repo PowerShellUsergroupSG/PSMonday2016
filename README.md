@@ -8,6 +8,6 @@ Videos to follow over the next few weeks!
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Introduction to Pester | Andreas Patt  | [Slides] | [Demo Scripts] | [Video]
 | Office 365 for Clever PowerShellers | Amanda Debler  | [Slides] | [Demo Scripts] | [Video]
-| Some PowerBI + SQL awesomeness | Rob Sewell  | [Slides] | [Demo Scripts] | [Video]
+| PowerShell, SQL and PowerBi - Reducing your Context Switching  | Rob Sewell  | [Slides] | [Demo Scripts] | [Video]
 | Nano Server - Minimalism in Windows Server | Jeff Wouters | [Slides] | [Demo Scripts] | [Video]
 | Unbelievably Easy DSC Using OMS | Ed Wilson | [Slides] | [Demo Scripts] | [Video]
