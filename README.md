@@ -1,7 +1,8 @@
 # PSMonday2016
-Presentations from PowerShell Monday 2016 in Munich
+##Presentations from PowerShell Monday 2016 in Munich
+Videos to follow over the next few weeks!
 
-**Note to Speakers**: Please make a pull request to put stuff in the folder with your name.
+**Note to Speakers**: Please make a pull request to put stuff in the folder with your name. I'll deal with updating this page.
 
 | Session Title  | Speaker | Slides | Demo Scripts | Videos |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
