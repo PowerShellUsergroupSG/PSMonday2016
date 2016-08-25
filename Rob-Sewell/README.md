@@ -1,3 +1,8 @@
-#Some PowerBI + SQL awesomeness
-##Rob Sewell - [@sqldbawithbeard](https://twitter.com/sqldbawithbeard), [SQL DBA with A Beard](https://sqldbawithabeard.com)
-Rob demonstrates how easy it is to get your stuff from SQL Server into PowerBI, then shows off some natural language queries your boss will LOVE.
+#PowerShell, SQL and PowerBi - Reducing your Context Switching
+##Rob Sewell - [@sqldbawithbeard](https://twitter.com/sqldbawithbeard), [SQL DBA with A Beard](https://sqldbawithabeard.com), [dbareports](https://dbareports.io)
+"Could you just tell me……….?" This may cost 10 seconds of time or it may take several hours but it will definitely stop the current task and impact its completion A SQL DBA will be required to provide a myriad of information in many different ways to many different types of people, answering questions from technical teams, technology teams, other parts of the business as well as directors and external parties. 
+
+I will show you how to create a self-service portal for your DBA information, updated with Powershell and delivered with PowerBi.
+
+In this session you will learn the why, what and how of automating the gathering, storing and displaying of information enabling self-service and reducing the interruptive calls on your time whilst ensuring that the data is correct and trustworthy. I will also show you how you can use this to enable consistency across your estate. This session will be of benefit to the "Accidental DBAs" as well as DBAs looking after large estates. The majority of the session will concentrate on the way I use PowerShell to gather the information and store it. I will also show you how to enable self-service with natural language query using PowerBi. You will leave the session with all of the tools you need to return to work and convince your boss this is a worthwhile use of your time and to implement this solution to provide a modern way of providing accurate information about your estate.
+
