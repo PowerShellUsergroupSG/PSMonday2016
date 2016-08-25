@@ -1,0 +1,3 @@
+#Unbelievably Easy DSC Using OMS
+##Ed Wilson - [@ScriptingGuys](https://twitter.com/ScriptingGuys), [Hey, Scripting Guy!](https://blogs.technet.microsoft.com/heyscriptingguy/)
+Both Windows PowerShell 4.0 and 5.0 feature Desired State Configuration as a key strategic feature, but the barrier to entry is a bit high for the harried network administrator. Wouldn't it be great if one could harness the power of DSC in a simple, easy-to-use point-and-click environment? Well, you can, and in this session, Ed Wilson, the Microsoft Scripting Guy, shows you how to harness DSC from within Microsoft's latest way cool product: Operations Management Suite. It is fun, powerful and easy to use.
